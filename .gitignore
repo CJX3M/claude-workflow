@@ -1,0 +1,5 @@
+# Datos locales que no deben subirse
+story-plans/
+settings.local.json
+*.local.md
+.env

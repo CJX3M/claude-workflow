@@ -1,0 +1,13 @@
+{
+  "name": "story-workflow-marketplace",
+  "owner": {
+    "name": "Carlos Lopez"
+  },
+  "plugins": [
+    {
+      "name": "story-workflow",
+      "source": "./",
+      "description": "Agentes y skill para implementar historias de Azure DevOps de punta a punta."
+    }
+  ]
+}

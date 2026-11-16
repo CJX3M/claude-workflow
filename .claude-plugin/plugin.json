@@ -1,0 +1,8 @@
+{
+  "name": "story-workflow",
+  "description": "Agentes y skill para implementar historias de Azure DevOps de punta a punta: plan, ramas, código, pruebas, revisión y PRs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Carlos Lopez"
+  }
+}
